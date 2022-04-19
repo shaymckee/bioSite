@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Comby Supply<?title>
-
-  <!-- link to an external stylesheet -->
-  <link rel="stylesheet" type="text/css" href"McKee_EX2.css">
-  <link href="https://fonts.googleapis.com/css2?family+Oswald:wght@300;500;700&family=Quattrocento:wght@400;700&display=swap" rel=stylesheet">
-
-  <!--meta tags -->
-  <meta name="description" content="Landing Page" />
-  <meta name="keywords" content="HTML, Landing Page, Comby Supply" />
-  <meta name="robots" content="nofollow" />
-  <meta http-equiv="author" content="Shay McKee" />
+  <title>Comby Supply</title>
 
 </head>
 
