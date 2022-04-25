@@ -1,0 +1,34 @@
+#page-title {
+    text-align: center;
+    font-family: 'Marcellus', serif;
+}
+
+#name {
+    text-align: center;
+    font-family: 'Bershire Swash', cursive;
+}
+
+#contact {
+    text-align: center;
+    font-family: 'Marcellus', serif;
+}
+
+
+#footer {
+    margin-top: 60%;
+    width: 100%;
+}
+
+#back-to-top {
+    float: right;
+    margin-bottom: 20px;
+}
+
+#barber-url, #back-to-top {
+    font-family: 'Marcellus', serif;
+    text-decoration: none;
+}
+
+#barber-url:hover, #back-to-top:hover {
+    text-decoration: underline;
+}
