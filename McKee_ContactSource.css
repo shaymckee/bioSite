@@ -1,18 +1,58 @@
-#page-title {
+body {
     text-align: center;
     font-family: 'Marcellus', serif;
 }
 
-#name {
+intro {
+    text-align: center;
+    font-family: 'Marcellus', serif;
+}
+
+header {
     text-align: center;
     font-family: 'Bershire Swash', cursive;
-}
-
-#contact {
+    background-color: #051f3c;
+    color: #fff;
+    padding: 10px;
     text-align: center;
-    font-family: 'Marcellus', serif;
 }
 
+h1 {
+    font-weight: 800;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #051f3c;
+    border-bottom: 10px solid #e3a14c;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: #e3a14c;
+    color: #051f3c;
+}
+
+img {
+    width: 350px;
+    height: 400px;
+    align-content: center
+}
+
+#container {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
 
 #footer {
     margin-top: 60%;
@@ -24,11 +64,11 @@
     margin-bottom: 20px;
 }
 
-#barber-url, #back-to-top {
+#appointment-url, #back-to-top {
     font-family: 'Marcellus', serif;
     text-decoration: none;
 }
 
-#barber-url:hover, #back-to-top:hover {
+#appointment-url:hover, #back-to-top:hover {
     text-decoration: underline;
 }
